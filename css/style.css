@@ -81,3 +81,7 @@ body
  width:600px;
  margin-left:110px;
 }
+
+#content .col-md-auto {
+    width: 100%;
+}
