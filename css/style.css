@@ -5,7 +5,7 @@ body
  text-align:center;
  width:100%;
  font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
- background-color:#ECF0F1;
+ background-image: url(/images/background-image.jpg);
 }
 #wrapper
 {
@@ -36,7 +36,7 @@ body
  margin-top:50px;
  margin-bottom:30px;
  padding:0px;
- padding-left:10px;
+ padding-left:20px;
  color:white;
  border-bottom:none;
  cursor:pointer;
@@ -48,8 +48,9 @@ body
  display:block;
  color:rgb(163, 0, 168);
  text-decoration:none;
- font-size:18px;
+ font-size:30px;
  padding-left:20px;
+ padding-bottom: 30px;
 }
 #menu li:hover a
 {
