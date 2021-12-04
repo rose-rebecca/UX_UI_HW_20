@@ -48,7 +48,7 @@ body
  display:block;
  color:rgb(163, 0, 168);
  text-decoration:none;
- font-size:30px;
+ font-size:24px;
  padding-left:20px;
  padding-bottom: 30px;
 }
@@ -67,7 +67,7 @@ body
 {
  margin-top:50px;
  font-size:45px;
- color:#626567;
+ color:#000000;
 }
 #content h1 p
 {
@@ -78,7 +78,7 @@ body
 }
 #content p
 {
- color:#4D5656;
+ color:#000000;
  width:600px;
  margin-left:110px;
 }
