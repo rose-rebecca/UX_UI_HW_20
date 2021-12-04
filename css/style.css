@@ -5,7 +5,7 @@ body
  text-align:center;
  width:100%;
  font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
- background-image: url(/images/background-image.jpg);
+ background-image: url(images/background-image.jpg);
 }
 #wrapper
 {
